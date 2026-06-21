@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="Futuris Automotive">
+  <rect width="420" height="120" rx="18" fill="#ffffff"/>
+  <text x="210" y="66" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="2" fill="#303740">FUTURIS</text>
+  <text x="210" y="33" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="4" fill="#8A94A6">FUTURIS AUTOMOTIVE</text>
+  <path d="M82 84h256" stroke="#D71920" stroke-width="7" stroke-linecap="round"/>
+</svg>
